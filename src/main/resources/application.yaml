@@ -2,8 +2,8 @@ spring:
   mail:
     host: smtp.gmail.com
     port: 587
-    username:
-    password:   # sua app password do Google
+    username: jefersonguedes89@gmail.com
+    password:  pcss chvo drqr inlp # sua app password do Google
     protocol: smtp
     properties:
       mail:
@@ -21,7 +21,7 @@ spring:
 
 envio:
   email:
-    remetente:
+    remetente: jefersonguedes89@gmail.com
     nomeRemetente: 'Jeferson Guedes'
 
 server:
